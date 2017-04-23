@@ -1,0 +1,7 @@
+/Users/junecho/Projects/VividSeats/VividSeats/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/VividSeats/VividSeats/bin/Debug/VividSeats.dll.mdb
+/Users/junecho/Projects/VividSeats/VividSeats/bin/Debug/VividSeats.dll
+/Users/junecho/Projects/VividSeats/VividSeats/obj/Debug/VividSeats.dll
+/Users/junecho/Projects/VividSeats/VividSeats/obj/Debug/VividSeats.dll.mdb
+/Users/junecho/Projects/VividSeats/VividSeats/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/VividSeats/VividSeats/bin/Debug/Xamarin.UITest.dll
