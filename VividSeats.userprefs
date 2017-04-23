@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VividSeats/AppInitializer.cs">
+    <Files>
+      <File FileName="VividSeats/Tests.cs" Line="31" Column="15" />
+      <File FileName="VividSeats/AppInitializer.cs" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VividSeats PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

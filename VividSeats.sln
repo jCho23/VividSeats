@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VividSeats", "VividSeats\VividSeats.csproj", "{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A231A72-145B-4DEA-9F2D-CCC0BD233DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
