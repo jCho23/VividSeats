@@ -28,7 +28,7 @@ namespace VividSeats
 		}
 
 		[Test]
-		public void AppLaunches()
+		public void Repl()
 		{
 			app.Repl();
 		}
