@@ -30,5 +30,14 @@ namespace VividSeats
 		{
 			app.Repl();
 		}
+
+		[Test]
+		public void FirstTest()
+		{
+			app.Tap(x => x.Class("android.widget.ImageButton").Index(0));
+
+			app.Tap("Browse");
+			app.Screenshot("We Tapped the 'Browse' Button");
+		}
 	}
 }
